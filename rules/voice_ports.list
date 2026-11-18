@@ -1,0 +1,9 @@
+# Порты голосовых и видеозвонков (WhatsApp, Telegram, FaceTime, Google Meet)
+DST-PORT,3478
+DST-PORT,3479
+DST-PORT,3480
+DST-PORT,3484
+DST-PORT,5222
+DST-PORT,596-599
+DST-PORT,1400
+DST-PORT,19302-19309

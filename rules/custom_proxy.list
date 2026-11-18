@@ -1,0 +1,4 @@
+# Свои домены принудительно через VPN (по одному на строку: DOMAIN-SUFFIX,example.com)
+DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,whoer.net
