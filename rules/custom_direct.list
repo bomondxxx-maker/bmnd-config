@@ -1,2 +1,11 @@
 # Свои домены принудительно напрямую в РФ (мимо VPN)
 DOMAIN-SUFFIX,2ip.ru
+
+# China Intel Hub — китайские реестры / поиск / LLM API и ЦБ РФ (режут зарубежные VPN-датацентры)
+DOMAIN-SUFFIX,qcc.com
+DOMAIN-SUFFIX,qichacha.com
+DOMAIN-SUFFIX,bochaai.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,tianyancha.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,cbr.ru
